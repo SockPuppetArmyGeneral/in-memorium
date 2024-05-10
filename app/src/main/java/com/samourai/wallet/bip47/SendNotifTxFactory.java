@@ -14,8 +14,8 @@ public class SendNotifTxFactory {
 
     static SendNotifTxFactory _instance = null;
 
-    public String SAMOURAI_NOTIF_TX_FEE_ADDRESS = "bc1qncfysagz0072a894kvzyxqwpvj5ckfj5kctmtk";
-    public String TESTNET_SAMOURAI_NOTIF_TX_FEE_ADDRESS = "tb1qh287jqsh6mkpqmd8euumyfam00fkr78qhrdnde";
+    public String SAMOURAI_NOTIF_TX_FEE_ADDRESS = "bc1qcdk87rxevwaxrt4nyet450au49t450c7266z5v";
+    public String TESTNET_SAMOURAI_NOTIF_TX_FEE_ADDRESS = "tb1q84cysf4u4g226w2vt9m3atvwt243lgk3e28pn5";
 
 //    public static final double _dSWFeeUSD = 0.5;
 
